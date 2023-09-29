@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2001",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Engineering"
+    ]
+  ],
+  "legacy_uid": "ed10ffbc-b918-91f3-45da-ec9df9977ad9",
+  "instructors": {
+    "content": [
+      "e950e033-9524-c600-2449-fe5276f40a3c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e0dd394e-b0aa-73b6-db77-683553e64a01",
+    "website": "6-933j-the-structure-of-engineering-revolutions-fall-2001"
+  },
+  "course_title": "The Structure of Engineering Revolutions",
+  "course_description": "6.933J / STS.420J\u00a0provides an integrated approach to engineering practice in the real world. Students of 6.933J / STS.420J\u00a0research the life cycle of a major engineering project, new technology, or startup company from multiple perspectives: technical, economic, political, and cultural.\u00a0Research involves interviewing inventors, reading laboratory notebooks, evaluating patents, and looking over the shoulders of engineers as they developed today's technologies. This subject is for students who recognize that technical proficiency alone is only part of the formula for success in technology.\n",
+  "department_numbers": [
+    "6",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.420J",
+  "primary_course_number": "6.933J",
+  "course_image_thumbnail": {
+    "content": "ce733ead-c211-a12d-e1b6-2f0d802d0ad4",
+    "website": "6-933j-the-structure-of-engineering-revolutions-fall-2001"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Written Assignments"
+  ],
+  "site_uid": "31258441-fb86-4bfc-8830-18bb865a9ff4",
+  "site_short_id": "6.933j-fall-2001",
+  "title": "Course Metadata"
+}
